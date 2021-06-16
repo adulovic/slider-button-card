@@ -1,0 +1,60 @@
+{
+  "common": {
+    "version": "v",
+    "invalid_configuration": "Konfiguracija Neispravna",
+    "show_warning": "Prikaži Upozorenje",
+    "show_error": "Prikaži Grešku"
+  },
+  "tabs": {
+    "general": {
+      "title": "Opšta podešavanja",
+      "entity": "Entitet (Obavezno)",
+      "name": "Ime (Nije obavezno)",
+      "show_name": "Prikaži ime?",
+      "show_state": "Prikaži stanje?"
+    },
+    "icon": {
+      "title": "Ikonica",
+      "icon": "Ikonica (Nije obavezno)",
+      "show_icon": "Prikaži ikonicu?",
+      "use_state_color": "Obojeno stanje?",
+      "tap_action": "Dodir za aktivnost"
+    },
+    "slider": {
+      "title": "Klizač",
+      "direction": "Pravac",
+      "background": "Pozadina",
+      "use_brightness": "Koristi osvetljenost?",
+      "show_track": "Prikaži traku?",
+      "force_square": "Primoraj kvadrat?"
+    },
+    "action_button": {
+      "title": "Action dugme",
+      "mode": "Mode",
+      "icon": "Ikonica",
+      "show_button": "Prikaži dugme?",
+      "show_spinner": "Prikaži spinner?",
+      "tap_action": "Dodir za aktivnost"
+    }
+  },
+  "state": {
+    "off": "Isključeno",
+    "on": "Uključeno"
+  },
+  "direction": {
+    "left-right": "Sleva na desno",
+    "top-bottom": "Odozgo ka dole",
+    "bottom-top": "Odozdo ka gore"
+  },
+  "background": {
+    "striped": "Štrafte",
+    "gradient": "Gradijent",
+    "solid": "Jednobojno",
+    "triangle": "Trougao",
+    "custom": "Po želji"
+  },
+  "mode": {
+    "toggle": "Prekidač",
+    "custom": "Po želji"
+  }
+}
